@@ -1,0 +1,7 @@
+Ingrese un numero entero positivo, la operacion a reaizar y otro entero positivo. Ejemplo: 5 -1
+10+10
+El resultado de la operacion es: 20
+
+------------------------------------------------
+Process exited after 5.874 seconds with return value 0
+Presione una tecla para continuar...

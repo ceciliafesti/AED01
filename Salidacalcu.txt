@@ -1,0 +1,2 @@
+10+10
+El resultado de la operacion es: 20
